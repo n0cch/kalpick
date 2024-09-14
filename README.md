@@ -1,7 +1,9 @@
-# kalpick
-For educational purposes only
+<hr>
+<h1 align="center">KALPICK</h1>
+<div align="center">
+  <img src="kalpick.png" border="0" width="250px" height="auto"><br>
+  <hr>
+</div>
+FOR EDUCATIONAL PURPOSES ONLY
 
-https://github.com/MonkeySp1n/kalpick/blob/8155c670d7a89375f5a5d515c6ac6f83f3eba115/src/main.py#L32
-Enter the name of the desired agent in this line.
-
-It will be distributed as .exe in the future.
+[Click this link to download.](https://github.com/MonkeySp1n/kalpick/releases/download/v1.0.0/kalpick.exe)
