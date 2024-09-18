@@ -8,7 +8,8 @@
 > [!IMPORTANT]  
 > FOR EDUCATIONAL PURPOSES ONLY
 
-[Click this link to download.](https://github.com/stark7k/valorant-instalock/releases/download/v2.0.0/KalPick.exe)
+[Click this link to download.](https://github.com/stark7k/valorant-instalock/releases/download/v2.5.0/kalpick.zip)
+[If you don't need to save settings, download this.](https://github.com/stark7k/valorant-instalock/releases/download/v2.0.0/KalPick.exe)
 
 [Release Contents](https://github.com/stark7k/valorant-instalock/releases)
 
