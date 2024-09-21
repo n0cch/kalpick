@@ -7,7 +7,8 @@
 
 > [!IMPORTANT]  
 > FOR EDUCATIONAL PURPOSES ONLY
-
+> 
+Just turn on Valorant and configure the settings, and agents will be picked automatically.
 [Click this link to download.](https://github.com/stark7k/valorant-instalock/releases/download/v2.5.0/kalpick.zip)
 
 [If you don't need to save settings, download this.](https://github.com/stark7k/valorant-instalock/releases/download/v2.0.0/KalPick.exe)
