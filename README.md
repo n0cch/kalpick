@@ -8,7 +8,10 @@
 > [!IMPORTANT]  
 > FOR EDUCATIONAL PURPOSES ONLY
 > 
-Just turn on Valorant and configure the settings, and agents will be picked automatically.
+Just turn on Valorant and configure the settings, and agent will be picked automatically.
+
+Setting a small delay will cause the agent to be picked before loading.
+
 [Click this link to download.](https://github.com/stark7k/valorant-instalock/releases/download/v2.5.0/kalpick.zip)
 
 [If you don't need to save settings, download this.](https://github.com/stark7k/valorant-instalock/releases/download/v2.0.0/KalPick.exe)
